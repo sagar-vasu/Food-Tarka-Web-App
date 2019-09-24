@@ -1,0 +1,12 @@
+.input:focus:not([readonly])+label {
+    color: #880E4F !important;
+}
+
+.input:focus:not([readonly]) {
+    border-bottom: 1px solid #880E4F !important;
+    box-shadow: 0 1px 0 0 #880E4F !important;
+}
+
+.change {
+    background-color: #880E4F !important
+}
