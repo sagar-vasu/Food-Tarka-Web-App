@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "@material-ui/icons": "^4.4.1",
-    "firebase": "^6.6.1",
+    "firebase": "^10.9.0",
     "geolib": "^3.0.4",
     "mdbreact": "^4.20.0",
     "multi-select-react": "^0.1.8",
